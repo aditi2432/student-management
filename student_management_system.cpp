@@ -184,10 +184,3 @@ int main()
 
 
 }
-
-
-/* BUGS:
-    1) Implement code to input complete name with spaces.
-    2) Implement searching for entries using any one of the available details - id, name, class 
-        and NOT by entering all the details as it defeats the search purpose.
-*/ 
